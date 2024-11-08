@@ -33,7 +33,7 @@ A simple digital clock built with React that displays the current time, updated 
   
 ## Setup
 
-bash
+``` bash
 # Clone the repository
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
@@ -42,10 +42,10 @@ cd your-repository-name
 npm install
 
 # Run the app
-npm start
+npm start 
 
- This will start the app in development mode, usually available at http://localhost:3000
-
+ This will start the app in development mode, usually available at http://localhost:3000 
+```
 ## License
 
 This project is open-source and available under the MIT License.
