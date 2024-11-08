@@ -13,8 +13,6 @@ A simple digital clock built with React that displays the current time, updated 
 - **App**: The main component that renders the `DigitalClock` component.
 - **DigitalClock**: Displays the current time, updating every second.
 
-# This will start the app in development mode, usually available at http://localhost:3000.
-
 ## Project Structure
 
 - **App.jsx**: The main component file that imports and renders DigitalClock. 
@@ -35,7 +33,7 @@ A simple digital clock built with React that displays the current time, updated 
   
 ## Setup
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
@@ -46,7 +44,7 @@ npm install
 # Run the app
 npm start
 
-# This will start the app in development mode, usually available at http://localhost:3000
+ This will start the app in development mode, usually available at http://localhost:3000
 
 ## License
 
