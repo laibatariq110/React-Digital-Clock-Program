@@ -44,7 +44,7 @@ npm install
 # Run the app
 npm start 
 
- This will start the app in development mode, usually available at http://localhost:3000 
+This will start the app in development mode, usually available at http://localhost:3000 
 ```
 ## License
 
