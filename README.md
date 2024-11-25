@@ -2,6 +2,11 @@
 
 A simple digital clock built with React that displays the current time, updated every second. The clock is styled with a custom background and provides a clean, user-friendly UI.
 
+## 🌐 Live Demo
+![React Digital Clock Program Screenshot](Digital-clock-app/src/assets/react-digital-clock.png)
+[View the live project here!](https://laibatariq110.github.io/React-Digital-Clock-Program)
+
+
 ## Features
 
 - **Real-time clock** that updates every second.
